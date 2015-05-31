@@ -9,6 +9,7 @@
 * [IDZSwiftCommonCrypto](https://github.com/iosdevzone/IDZSwiftCommonCrypto) : A wrapper for Apple's Common Crypto library written in Swift.
 * [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults) : SwiftyUserDefaults is a set of extensions to make the NSUserDefaults API cleaner, nicer, and at home with Swift's syntax.
 * [SwiftyTimer](https://github.com/radex/SwiftyTimer) : SwiftyTimer is a set of extensions to make the NSTimer API cleaner, nicer to use, and at home with Swift's syntax.
+* [Box](https://github.com/robrix/Box) : Swift µframework of the ubiquitous Box<T> & MutableBox<T> reference types, for recursive value types & misc.
 
 ## UI
 * [Sweets](https://github.com/larcus94/Sweets) : A framework that extends UIKit so that it's somewhat convenient to use with Swift
@@ -17,6 +18,8 @@
 ## Others
 * [chswift](https://github.com/neonichu/chswift) : The missing Swift version manager, inspired by chruby.
 * [RxSwift](https://github.com/kzaher/RxSwift) : Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform
+* [GoSwift](https://github.com/tidwall/GoSwift) : Bring some of the more powerful features of Go to your iOS / Swift project such as channels, goroutines, and defers.
+* [Swift-Adventures-In-Monad-Land](https://github.com/alskipp/Swift-Adventures-In-Monad-Land) : The purpose of this repository is to explore concepts relating to the 'M' word in Swift.
 
 
 ## 還不完全知道在幹嘛
