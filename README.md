@@ -10,6 +10,7 @@
 * [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults) : SwiftyUserDefaults is a set of extensions to make the NSUserDefaults API cleaner, nicer, and at home with Swift's syntax.
 * [SwiftyTimer](https://github.com/radex/SwiftyTimer) : SwiftyTimer is a set of extensions to make the NSTimer API cleaner, nicer to use, and at home with Swift's syntax.
 * [Box](https://github.com/robrix/Box) : Swift µframework of the ubiquitous Box<T> & MutableBox<T> reference types, for recursive value types & misc.
+* [RLDTableViewSwift](https://github.com/rlopezdiez/RLDTableViewSwift) : Reusable table view controller, data source and delegate for all your UITableView needs in Swift
 
 ## UI
 * [Sweets](https://github.com/larcus94/Sweets) : A framework that extends UIKit so that it's somewhat convenient to use with Swift
