@@ -1,6 +1,8 @@
 # 3rd-Party-Libary-in-Swift
 
 * [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) : A collaborative list of awesome swift resources.
+* [SwiftGuide](https://github.com/ipader/SwiftGuide) : 这份指南汇集了Swift语言主流学习资源，并以开发者的视角整理编排。
+* [iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) : 精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。欢迎提交pull-request一起维护。[iOS Swift Demos from Apple]
 
 ## Coding Efficiency
 * [PathKit](https://github.com/kylef/PathKit) : Effortless path operations in Swift
@@ -21,8 +23,10 @@
 * [RxSwift](https://github.com/kzaher/RxSwift) : Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform
 * [GoSwift](https://github.com/tidwall/GoSwift) : Bring some of the more powerful features of Go to your iOS / Swift project such as channels, goroutines, and defers.
 * [Swift-Adventures-In-Monad-Land](https://github.com/alskipp/Swift-Adventures-In-Monad-Land) : The purpose of this repository is to explore concepts relating to the 'M' word in Swift.
+* [LeetCode.swift](https://github.com/lexrus/LeetCode.swift) : Once upon a time there was a noob of algorithms, and he knew a little about Swift. 
 
 
 ## 還不完全知道在幹嘛
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) : CleanroomLogger provides an extensible Swift-based logging API that is simple, lightweight and performant
 * [SwiftLint](https://github.com/realm/SwiftLint) : An experimental tool to enforce Swift style and conventions.
+* [Result](https://github.com/antitypical/Result) : Swift type modelling the success/failure of arbitrary operations.
