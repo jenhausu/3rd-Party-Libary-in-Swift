@@ -1,4 +1,6 @@
 # 3rd-Party-Libary-in-Swift
+* [numbbbbb/the-swift-programming-language-in-chinese
+](https://github.com/numbbbbb/the-swift-programming-language-in-chinese) : 中文版 Apple 官方 Swift 教程《The Swift Programming Language》 http://gg.swiftguide.cn
 
 * [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) : A collaborative list of awesome swift resources.
 * [SwiftGuide](https://github.com/ipader/SwiftGuide) : 这份指南汇集了Swift语言主流学习资源，并以开发者的视角整理编排。
