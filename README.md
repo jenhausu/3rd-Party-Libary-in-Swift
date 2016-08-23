@@ -26,6 +26,7 @@
 * [GoSwift](https://github.com/tidwall/GoSwift) : Bring some of the more powerful features of Go to your iOS / Swift project such as channels, goroutines, and defers.
 * [Swift-Adventures-In-Monad-Land](https://github.com/alskipp/Swift-Adventures-In-Monad-Land) : The purpose of this repository is to explore concepts relating to the 'M' word in Swift.
 * [LeetCode.swift](https://github.com/lexrus/LeetCode.swift) : Once upon a time there was a noob of algorithms, and he knew a little about Swift. 
+* [StyleKit](https://github.com/146BC/StyleKit) : A powerful & easy to use styling framework written in Swift
 
 
 ## 還不完全知道在幹嘛
