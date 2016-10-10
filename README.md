@@ -33,3 +33,4 @@
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) : CleanroomLogger provides an extensible Swift-based logging API that is simple, lightweight and performant
 * [SwiftLint](https://github.com/realm/SwiftLint) : An experimental tool to enforce Swift style and conventions.
 * [Result](https://github.com/antitypical/Result) : Swift type modelling the success/failure of arbitrary operations.
+* [Retry](https://github.com/icanzilb/Retry) : Haven't you wished for `try` to sometimes try a little harder ?
